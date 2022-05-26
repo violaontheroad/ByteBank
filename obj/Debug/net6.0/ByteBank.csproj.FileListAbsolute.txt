@@ -1,0 +1,15 @@
+/home/violaontheroad/CSharp/ByteBank/bin/Debug/net6.0/ByteBank
+/home/violaontheroad/CSharp/ByteBank/bin/Debug/net6.0/ByteBank.deps.json
+/home/violaontheroad/CSharp/ByteBank/bin/Debug/net6.0/ByteBank.runtimeconfig.json
+/home/violaontheroad/CSharp/ByteBank/bin/Debug/net6.0/ByteBank.dll
+/home/violaontheroad/CSharp/ByteBank/bin/Debug/net6.0/ByteBank.pdb
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.csproj.AssemblyReference.cache
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.AssemblyInfoInputs.cache
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.AssemblyInfo.cs
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.csproj.CoreCompileInputs.cache
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.dll
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/refint/ByteBank.dll
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.pdb
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ByteBank.genruntimeconfig.cache
+/home/violaontheroad/CSharp/ByteBank/obj/Debug/net6.0/ref/ByteBank.dll
